@@ -1,0 +1,9 @@
+src/test/java/ru/promo/finance/TransactionAndWalletTest.java
+src/test/java/ru/promo/finance/TransferServiceTest.java
+src/test/java/ru/promo/finance/AlertServiceTest.java
+src/test/java/ru/promo/finance/StatisticsServiceTest.java
+src/test/java/ru/promo/finance/PersistenceAndExportTest.java
+src/test/java/ru/promo/finance/TestRunner.java
+src/test/java/ru/promo/finance/CategoryAndBudgetTest.java
+src/test/java/ru/promo/finance/ConsoleUIIntegrationTest.java
+src/test/java/ru/promo/finance/UserAndAuthTest.java
